@@ -1,6 +1,7 @@
 #Input an int number
-bok_a = int(input("Bok A:"))
-bok_b = int(input("Boka B:"))
+side_a = int(input("Side A:"))
+side_b = int(input("Side B:"))
 
-print("Pole prostokątu o bokach a =", bok_a, "oraz b =", bok_b, "jest równe:" )
-print(bok_a * bok_b)
+print("Area of a rectangle with sides a =", side_a, "and b =", side_b, "is equal:" )
+
+print(side_a * side_b)
