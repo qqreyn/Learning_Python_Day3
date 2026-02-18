@@ -1,3 +1,4 @@
-r = int(input("Podaj promień koła: "))
+r = int(input("Enter circle radius: "))
 
-print("Pole koła wynosi:", (r*r) * 3.14)
+
+print("Area of circle is equal: ", (r*r) * 3.14)
