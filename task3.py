@@ -1,7 +1,6 @@
-num = int(input("Podaj liczbe: "))
+num = int(input("Enter a number: "))
 
-#Jesli liczba po podzieleniu przez 2 ma reszte = nie parzysta jesli nie ma reszty = parzysta
 if (num % 2 == 1):
-    print("Liczba jest nie parzysta")
+    print("Number is not even")
 else: 
-    print("Liczba jest parzysta")
+    print("Number is even")
