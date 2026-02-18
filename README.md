@@ -6,7 +6,7 @@ Today's topic is using Python as a calculator!
 
 - **task1:** Calculate area of a rectangle (length * width)
 
-- **task2:** Calculate circle area (3.14 * radius ** 2)
+- **task2:** Calculate circle area (3.14 * radius * 2)
 
 - **task3:** Check if a number is even using % 2
 
