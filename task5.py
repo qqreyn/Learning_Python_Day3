@@ -1,4 +1,5 @@
-minutes = int(input("Podaj ilość minut "))
+minutes = int(input("Enter the number of minutes: "))
 
-print("Ile to godzin i minut:")
-print(minutes // 60, "Godzin/y oraz", minutes % 60, "Minut")
+print("How many hours and minutes: ")
+
+print(minutes // 60, "Hours and", minutes % 60, "Minutes")
