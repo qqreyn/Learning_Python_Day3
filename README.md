@@ -16,3 +16,6 @@ Today's topic is using Python as a calculator!
 
 **mini-project:**
 Bill Splitter: Ask for total bill amount, number of people, and tip percentage. Calculate tip amount, total with tip, and amount per person. Display all calculations clearly.
+
+**bonus mini-project:**
+Delta calculator
