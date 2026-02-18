@@ -25,4 +25,3 @@ if (delta > 0):
 elif (delta == 0):
     print("Delta == 0, 1 solution")
     print("x0 = ", x0)
-
